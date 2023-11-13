@@ -16,9 +16,9 @@
 | 5  | 디자인 패턴                | 2023/10/12 | 규성  |   [링크](/5.%20디자인%20패턴/박규성.md)     |
 | 6  | 스토리북                  | 2023/10/12 | Koo | [링크](/6.%20스토리북/Koo.md)      |
 ## Contributors
-| ![img](https://avatars.githubusercontent.com/u/62178788?v=4) | ![img](https://avatars.githubusercontent.com/u/118467640?v=4) | ![img](https://avatars.githubusercontent.com/u/13017474?v=4) |
-|:---:|:---:|:---:|
-| [guesung](https://github.com/guesung) | [MinGyu-Gu](https://github.com/MinGyu-Gu) | [kidrauhl14](https://github.com/kidrauhl14) |
+| ![img](https://avatars.githubusercontent.com/u/62178788?v=4) | ![img](https://avatars.githubusercontent.com/u/12387678?v=4) | ![img](https://avatars.githubusercontent.com/u/13017474?v=4) |
+|:---:|:------------------------------------------------------------:|:---:|
+| [guesung](https://github.com/guesung) |               [Koo](https://github.com/dkd051)               | [kidrauhl14](https://github.com/kidrauhl14) |
 
 
 ## 질문 자료 템플릿
